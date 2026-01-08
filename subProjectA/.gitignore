@@ -1,0 +1,67 @@
+### PROJECT ###
+
+
+### GENERAL ###
+HELP.md
+
+### BUILD ###
+**/target/**
+.mvn/wrapper/maven-wrapper.jar
+**/build/**
+**/out/**
+**/bin/**
+
+## Kotlin
+.kotlin/
+
+### GRADLE ###
+gradle-user-home
+.gradle
+.gradletasknamecache
+local.properties
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea/*
+!.idea/externalDependencies.xml
+!.idea/runConfigurations
+!.idea/runConfigurations/*
+!.idea/vcs.xml
+!.idea/dictionaries
+!.idea/dictionaries/*
+!.idea/copyright
+!.idea/copyright/*
+!../../kotlinx-serialization-json-extentions/.idea/icon.svg
+*.iws
+*.iml
+*.ipr
+
+### FLEET IDEA ###
+.fleet/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### OS ###
+*.swp
+.DS_Store
+
+### VERSIONING ###
+
+
+### DOCU ###
