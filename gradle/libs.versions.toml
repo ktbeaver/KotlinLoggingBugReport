@@ -15,7 +15,7 @@ kotlin = "2.2.0"
 
 ## Logging
 log4j-version = "2.23.1"
-kotlin-logging = "7.0.13"
+kotlin-logging = "8.0.00-beta-01"
 
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
